@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0283-move-zeroes) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

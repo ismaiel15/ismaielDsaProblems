@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0875-koko-eating-bananas) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -107,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->

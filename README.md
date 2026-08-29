@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0486-predict-the-winner) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0486-predict-the-winner) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0142-linked-list-cycle-ii) |

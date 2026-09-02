@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0486-predict-the-winner) |

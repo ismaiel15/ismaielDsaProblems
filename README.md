@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0169-majority-element) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0503-next-greater-element-ii) |
 ## Merge Sort
@@ -210,9 +212,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0020-valid-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

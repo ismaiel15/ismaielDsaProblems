@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0622-design-circular-queue](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0875-koko-eating-bananas) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -244,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0084-largest-rectangle-in-histogram) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->

@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0085-maximal-rectangle) |
+| [0232-implement-queue-using-stacks](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0496-next-greater-element-i) |
@@ -249,9 +250,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->

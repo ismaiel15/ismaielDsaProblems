@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0907-sum-of-subarray-minimums) |
 ## Recursion
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0860-lemonade-change) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Prefix Sum
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0907-sum-of-subarray-minimums) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0678-valid-parenthesis-string) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |

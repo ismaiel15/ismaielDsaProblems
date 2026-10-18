@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0575-distribute-candies](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0575-distribute-candies) |
 | [0622-design-circular-queue](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0735-asteroid-collision) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0575-distribute-candies) |
 ## Divide and Conquer
 |  |
 | ------- |

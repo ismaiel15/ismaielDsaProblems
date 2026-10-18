@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1901-find-a-peak-element-ii) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Simulation
 |  |
 | ------- |

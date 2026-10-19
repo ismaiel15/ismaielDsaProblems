@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0169-majority-element) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

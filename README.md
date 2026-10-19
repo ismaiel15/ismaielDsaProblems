@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0486-predict-the-winner) |
 ## Minimax
@@ -318,4 +320,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

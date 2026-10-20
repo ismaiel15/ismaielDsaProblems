@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0231-power-of-two) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0231-power-of-two) |

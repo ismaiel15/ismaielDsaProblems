@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0455-assign-cookies) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0455-assign-cookies) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0575-distribute-candies) |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0704-binary-search) |
@@ -325,5 +330,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->

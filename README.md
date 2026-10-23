@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0085-maximal-rectangle) |
+| [0119-pascals-triangle-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0085-maximal-rectangle) |
+| [0119-pascals-triangle-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0678-valid-parenthesis-string) |

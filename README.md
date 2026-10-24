@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0240-search-a-2d-matrix-ii) |

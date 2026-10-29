@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0283-move-zeroes) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0455-assign-cookies) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0496-next-greater-element-i) |
@@ -176,11 +179,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1901-find-a-peak-element-ii) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Simulation

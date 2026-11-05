@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0455-assign-cookies) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quicksort
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0387-first-unique-character-in-a-string) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

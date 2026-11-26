@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0860-lemonade-change) |
+| [1382-balance-a-binary-search-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Prefix Sum
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0543-diameter-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -494,4 +499,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ismaiel15/ismaielDsaProblems/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
